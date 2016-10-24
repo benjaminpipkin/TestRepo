@@ -20,6 +20,8 @@ int main()
 	memcpy(testPtr->off,"LHR",sizeof(testPtr->off));
 	memcpy(testPtr->time,"1430",sizeof(testPtr->time));
 	
+	int i = 0;
+	
 	free(test_p);
 	return 0;
 }// end main
