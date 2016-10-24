@@ -1,3 +1,3 @@
 README
 
-This is our second development branch.
+This is our master branch.
